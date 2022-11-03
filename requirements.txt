@@ -3,3 +3,4 @@ keras==2.8.0
 numpy>=1.19.3
 opencv-python-headless
 streamlit==1.11.1
+tensorflow
