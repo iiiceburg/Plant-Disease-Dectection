@@ -1,5 +1,5 @@
 python_version >= "3.9"
 keras==2.8.0
 numpy>=1.19.3
-opencv-python-headless==4.3.0.38
+opencv-python-headless
 streamlit==1.11.1
